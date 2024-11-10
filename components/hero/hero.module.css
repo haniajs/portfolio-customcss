@@ -1,0 +1,46 @@
+.section {
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+}
+
+.h1 {
+    color:  #A29875;
+    font-size: 45px;
+    align-items: center;
+    padding: 20px;
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
+.para {
+    color:  #A29875;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px; 
+    display: flex;
+    justify-items: center; 
+    align-items: center;  
+    flex-direction: column;  
+    margin-left: 60px;
+}
+
+.button {
+    background-color: #A29875;
+    color: white;
+    padding: 8px;
+    margin-top: 40px;
+    border-radius: 4px;
+    margin-left: 90px;
+}
+
+.div {
+    height: 40px;
+    padding: 20px;
+    margin-right: 45px;
+    margin-top: 40px;
+    border-radius: 12px;
+}

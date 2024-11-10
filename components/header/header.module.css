@@ -1,0 +1,38 @@
+.style {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #A29875;
+    color: white;
+    height: 55px;
+    font-size: large;
+}
+
+.h1 {
+    float: left;
+    padding: 8px;
+}
+
+.li {
+    float: right;
+}
+
+.li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+.li a:hover:not(.active) {
+    background-color: white;
+    color: black;
+}
+
+.active {
+    background-color: white;
+    color: black;
+}

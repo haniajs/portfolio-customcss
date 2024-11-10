@@ -1,0 +1,14 @@
+.h1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 12px;
+    overflow: hidden;
+    background-color: #A29875;
+    color: white;
+    height: 55px;
+    font-size: large;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+}
+

@@ -1,0 +1,31 @@
+.div {
+    color: #A29875;
+    justify-items: center;
+    height: 500px;
+}
+
+.h1 {
+    font-size: 45px;
+    align-items: center;
+    padding: 20px;
+    justify-items: center;
+    margin-top: 70px;
+}
+
+.p {
+    align-items: center;
+    padding: 20px;
+    justify-items: center;
+    margin-top: 4px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.button {
+    background-color: #A29875;
+    color: white;
+    padding: 12px;
+    margin-top: 40px;
+    border-radius: 4px;
+    margin-left: 50px;
+}
